@@ -14,7 +14,7 @@
 #ifndef OPENSHOT_CATCH2_H
 #define OPENSHOT_CATCH2_H
 
-#include <catch2/catch_all.hpp>
+#include <catch2/catch.hpp>
 using namespace Catch;
 
 #endif
